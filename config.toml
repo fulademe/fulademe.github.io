@@ -1,6 +1,6 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://www.momo360.cn"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Momo360"
 theme = "blist"
 
 DefaultContentLanguage = "en"

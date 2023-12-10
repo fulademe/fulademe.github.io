@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Momo360</title>
-    <link>https://www.momo360.cn/tags/</link>
+    <link>https://www.momo360.cloud/tags/</link>
     <description>Recent content in Tags on Momo360</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.momo360.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.momo360.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

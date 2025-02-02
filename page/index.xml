@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Momo360</title>
-    <link>https://www.momo360.cloud/page/</link>
+    <link>https://momo360.fulade/page/</link>
     <description>Recent content in Pages on Momo360</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.momo360.cloud/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://momo360.fulade/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://www.momo360.cloud/page/about/</link>
+      <link>https://momo360.fulade/page/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.momo360.cloud/page/about/</guid>
+      <guid>https://momo360.fulade/page/about/</guid>
       <description>我们是一支小而精的App开发团队，我们的目标是为用户提供最优质的产品和服务。
 我们只有两个人，一个负责iOS开发，一个兼任UI设计和产品经理。
 虽然我们的团队规模不大，但我们有着丰富的App开发经验，熟悉各种平台和技术，我们最大限度的给用户提供服务。

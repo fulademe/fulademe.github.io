@@ -4,19 +4,16 @@
     <title>Pages on Momo360</title>
     <link>https://momo360.fulade.top/page/</link>
     <description>Recent content in Pages on Momo360</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://momo360.fulade.top/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://momo360.fulade.top/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://momo360.fulade.top/page/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://momo360.fulade.top/page/about/</guid>
-      <description>我们是一支小而精的App开发团队，我们的目标是为用户提供最优质的产品和服务。
-我们只有两个人，一个负责iOS开发，一个兼任UI设计和产品经理。
-虽然我们的团队规模不大，但我们有着丰富的App开发经验，熟悉各种平台和技术，我们最大限度的给用户提供服务。
-我们注重用户体验，不断创新和优化，力求打造极致的App。</description>
+      <description>&lt;p&gt;我们是一支小而精的App开发团队，我们的目标是为用户提供最优质的产品和服务。&lt;/p&gt;&#xA;&lt;p&gt;我们只有两个人，一个负责iOS开发，一个兼任UI设计和产品经理。&lt;/p&gt;&#xA;&lt;p&gt;虽然我们的团队规模不大，但我们有着丰富的App开发经验，熟悉各种平台和技术，我们最大限度的给用户提供服务。&lt;/p&gt;&#xA;&lt;p&gt;我们注重用户体验，不断创新和优化，力求打造极致的App。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

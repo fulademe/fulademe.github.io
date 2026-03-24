@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://momo360.fulade.top/apps/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
-  </url><url>
     <loc>https://momo360.fulade.top/</loc>
     <lastmod>2026-03-11T21:23:10+08:00</lastmod>
     <xhtml:link
@@ -18,35 +15,161 @@
                 href="https://momo360.fulade.top/"
                 />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/two-sorts-terms-of-use/</loc>
+    <loc>https://momo360.fulade.top/two-sorts/</loc>
     <lastmod>2026-03-11T21:23:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/two-sorts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/two-sorts/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/two-sorts-privacy-policy/</loc>
+    <loc>https://momo360.fulade.top/two-sorts/terms/</loc>
+    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/two-sorts/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/two-sorts/terms/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/two-sorts/privacy/</loc>
     <lastmod>2026-02-28T06:41:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/two-sorts/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/two-sorts/privacy/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-terms-of-use/</loc>
+    <loc>https://momo360.fulade.top/rhythm/</loc>
     <lastmod>2026-02-24T18:04:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/rhythm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/rhythm/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-terms-of-use-cn/</loc>
+    <loc>https://momo360.fulade.top/rhythm/terms/</loc>
     <lastmod>2026-02-24T18:04:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/rhythm/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/rhythm/terms/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-privacy-policy/</loc>
+    <loc>https://momo360.fulade.top/rhythm/privacy/</loc>
     <lastmod>2026-02-24T16:57:57+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/rhythm/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/rhythm/privacy/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-privacy-policy-cn/</loc>
-    <lastmod>2026-02-24T16:57:57+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/origami-terms-of-use/</loc>
+    <loc>https://momo360.fulade.top/origami/</loc>
     <lastmod>2024-09-10T11:36:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/origami/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/origami/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/origami-art-privacy-policy/</loc>
+    <loc>https://momo360.fulade.top/origami/terms/</loc>
+    <lastmod>2024-09-10T11:36:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/origami/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/origami/terms/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/origami/privacy/</loc>
     <lastmod>2024-08-28T11:36:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/origami/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/origami/privacy/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/one-image-agreement/</loc>
+    <loc>https://momo360.fulade.top/one-image/</loc>
     <lastmod>2023-12-24T19:24:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/one-image/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/one-image/"
+                />
   </url><url>
-    <loc>https://momo360.fulade.top/apps/one-image-privacy-policy/</loc>
+    <loc>https://momo360.fulade.top/one-image/terms/</loc>
+    <lastmod>2023-12-24T19:24:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/one-image/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/one-image/terms/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/one-image/privacy/</loc>
     <lastmod>2023-08-07T16:58:52+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/one-image/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/one-image/privacy/"
+                />
   </url><url>
     <loc>https://momo360.fulade.top/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -66,6 +189,54 @@
                 href="https://momo360.fulade.top/categories/"
                 />
   </url><url>
+    <loc>https://momo360.fulade.top/cocktail/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/cocktail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/cocktail/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/pear-ssh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/pear-ssh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/pear-ssh/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/queryable/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/queryable/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/queryable/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/si-nann/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/si-nann/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/si-nann/"
+                />
+  </url><url>
     <loc>https://momo360.fulade.top/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,6 +247,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://momo360.fulade.top/tags/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/parachute/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/parachute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/parachute/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/luo-shi-ci/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/luo-shi-ci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/luo-shi-ci/"
                 />
   </url>
 </urlset>

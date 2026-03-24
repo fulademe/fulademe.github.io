@@ -1,60 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://momo360.fulade.top/apps/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/two-sorts-terms-of-use/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/two-sorts-privacy-policy/</loc>
-    <lastmod>2026-02-28T06:41:42+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-terms-of-use/</loc>
-    <lastmod>2026-02-24T18:04:50+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/rhythm-privacy-policy/</loc>
-    <lastmod>2026-02-24T16:57:57+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/parachute-privacy-policy/</loc>
-    <lastmod>2025-03-03T10:34:01+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/origami-terms-of-use/</loc>
-    <lastmod>2024-09-10T11:36:35+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/origami-art-privacy-policy/</loc>
-    <lastmod>2024-08-28T11:36:35+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/cocktail-privacy-policy/</loc>
-    <lastmod>2024-08-16T21:45:34+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/luo-shi-ci-privacy-policy/</loc>
-    <lastmod>2024-05-29T22:49:31+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/sinan_privacy_policy/</loc>
-    <lastmod>2024-02-26T22:22:51+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/one-image-agreement/</loc>
-    <lastmod>2023-12-24T19:24:02+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/one-image-privacy-policy/</loc>
-    <lastmod>2023-08-07T16:58:52+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/apps/pear-ssh-privacy-policy/</loc>
-    <lastmod>2023-02-01T16:01:00+08:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://momo360.fulade.top/categories/</loc>
-  </url><url>
-    <loc>https://momo360.fulade.top/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://momo360.fulade.top/en/sitemap.xml</loc>
+    
+      <lastmod>2026-03-11T21:23:10+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://momo360.fulade.top/cn/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

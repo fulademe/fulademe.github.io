@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://momo360.fulade.top/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
+    <lastmod>2026-03-27T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -14,6 +14,22 @@
                 hreflang="en"
                 href="https://momo360.fulade.top/"
                 />
+  </url><url>
+    <loc>https://momo360.fulade.top/rhythm/</loc>
+    <lastmod>2026-03-27T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/rhythm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/rhythm/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/rhythm/support/</loc>
+    <lastmod>2026-03-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://momo360.fulade.top/two-sorts/</loc>
     <lastmod>2026-03-11T21:23:10+08:00</lastmod>
@@ -52,19 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://momo360.fulade.top/two-sorts/privacy/"
-                />
-  </url><url>
-    <loc>https://momo360.fulade.top/rhythm/</loc>
-    <lastmod>2026-02-24T18:04:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://momo360.fulade.top/cn/rhythm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://momo360.fulade.top/rhythm/"
                 />
   </url><url>
     <loc>https://momo360.fulade.top/rhythm/terms/</loc>

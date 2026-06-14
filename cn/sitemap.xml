@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://momo360.fulade.top/cn/</loc>
-    <lastmod>2026-03-11T21:23:10+08:00</lastmod>
+    <lastmod>2026-06-14T10:56:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://momo360.fulade.top/cn/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/cn/stripscale/privacy/</loc>
+    <lastmod>2026-06-14T10:56:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/stripscale/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/stripscale/privacy/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/cn/stripscale/</loc>
+    <lastmod>2026-06-14T10:56:20+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/stripscale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/stripscale/"
                 />
   </url><url>
     <loc>https://momo360.fulade.top/cn/two-sorts/</loc>

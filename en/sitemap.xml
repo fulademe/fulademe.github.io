@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://momo360.fulade.top/</loc>
-    <lastmod>2026-03-27T00:00:00+08:00</lastmod>
+    <lastmod>2026-06-14T10:56:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://momo360.fulade.top/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/stripscale/privacy/</loc>
+    <lastmod>2026-06-14T10:56:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/stripscale/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/stripscale/privacy/"
+                />
+  </url><url>
+    <loc>https://momo360.fulade.top/stripscale/</loc>
+    <lastmod>2026-06-14T10:56:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://momo360.fulade.top/cn/stripscale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://momo360.fulade.top/stripscale/"
                 />
   </url><url>
     <loc>https://momo360.fulade.top/rhythm/</loc>
@@ -29,6 +55,9 @@
                 />
   </url><url>
     <loc>https://momo360.fulade.top/rhythm/support/</loc>
+    <lastmod>2026-03-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://momo360.fulade.top/stripscale/support/</loc>
     <lastmod>2026-03-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://momo360.fulade.top/two-sorts/</loc>
